@@ -1,5 +1,9 @@
 # Agent guidance
 
+## Shared SEO AX
+
+Before cross-machine SEO research, content planning, or tracking for DeepSeekBot, read [the shared-VPS SEO AX runbook](docs/maintainers/shared-vps-seo-ax.md). Reuse the existing server project; machine-local instances are not the shared record. This workflow does not authorize paid calls, service changes, or external publishing.
+
 ## Engineering principles
 
 - Prefer simple, readable, flat code with minimal indirection.
